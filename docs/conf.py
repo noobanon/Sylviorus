@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Sylviorus'
+project = u'Sylviorus System'
 copyright = u'2021, Sylviorus'
 
 # The version info for the project you're documenting, acts as replacement for
