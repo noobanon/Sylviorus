@@ -8,15 +8,6 @@ Welcome to Sylviorus documentation!
 
 Contents:
 
->>> pip install sylviorus
-
->>> from sylviorus import SYL
->>> x = SYL()
->>> syl = x.get_info(user.id)
->>> print(x)
->>> print(x.reason)
-
-
 .. toctree::
    :maxdepth: 2
    :glob:
@@ -24,4 +15,12 @@ Contents:
    *
 
 
+
+>>> pip install sylviorus
+
+>>> from sylviorus import SYL
+>>> x = SYL()
+>>> syl = x.get_info(user.id)
+>>> print(x)
+>>> print(x.reason)
 
