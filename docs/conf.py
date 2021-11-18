@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocstemplate', u'Read the Docs Template Documentation',
+    ('index', 'Sylviorus System', u'Sylviorus Documentation',
      [u'Read the Docs'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadtheDocsTemplate', u'Read the Docs Template Documentation',
-   u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
+  ('index', 'Sylviorus System', u'Sylviorus Documentation',
+   u'Read the Docs', 'Sylviorus System', 'One line description of project.',
    'Miscellaneous'),
 ]
 
