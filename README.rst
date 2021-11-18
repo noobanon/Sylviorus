@@ -32,9 +32,7 @@ Install $project by running:
 
 Contribute
 ----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+Team Sylviorus
 
 Support
 -------
@@ -45,4 +43,4 @@ We have a support group located at: https://t.me/Sylviorus_support
 License
 -------
 
-The project is licensed under the GPL license.
+The project is licensed under the GPLV3 license.
