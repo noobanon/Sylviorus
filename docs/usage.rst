@@ -20,7 +20,7 @@ Take Auto Ban From Core::
 >>>    x = SYL()
 >>>    syl = x.get_info(int(user.id))   
 >>>    if not syl['blacklisted']:
-            return        
+>>>            return        
 >>>    else:
 >>>                chat.kick_member(user_id)
 >>>                reason , enf , user = syl['reason'] , syl['enforcer'] , syl['user']
