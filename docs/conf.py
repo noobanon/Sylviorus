@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# Read the Docs Template documentation build configuration file, created by
-# sphinx-quickstart on Tue Aug 26 14:19:49 2014.
+# Read the Docs Sylviorus documentation build configuration file, created by
+# Team Sylviorus.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Template'
-copyright = u'2014, Read the Docs'
+project = u'Read the Docs Sylviorus'
+copyright = u'2021, Sylviorus'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -108,7 +108,7 @@ html_theme = 'default'
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
 
-# The name for this set of Sphinx documents.  If None, it defaults to
+# The name for this set of Sylviorus documents.  If None, it defaults to
 # "<project> v<release> documentation".
 #html_title = None
 
