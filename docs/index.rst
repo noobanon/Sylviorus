@@ -7,11 +7,12 @@ Welcome to Sylviorus documentation!
 ==================================================
 
 Contents:
->>>from sylviorus import SYL
->>>x = SYL()
->>>syl = x.get_info(user.id)
->>>print(x)
->>>print(x.reason)
+
+>>> from sylviorus import SYL
+>>> x = SYL()
+>>> syl = x.get_info(user.id)
+>>> print(x)
+>>> print(x.reason)
 
 
 .. toctree::
