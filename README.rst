@@ -26,7 +26,7 @@ Installation
 
 Install $project by running:
 
-    pip install sylviorus
+>>> pip install sylviorus
 
 Contribute
 ----------
