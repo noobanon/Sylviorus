@@ -13,7 +13,19 @@ Look how to use:
 >>> print(x)
 >>> print(x.reason)
 
+# Print Ban Reason
 
+>>>try:
+>>>        sylban = SYL()
+>>>        spamer = sylban.get_info(int(user.id))
+>>>        if spamer.blacklisted != False:
+>>>            text += "\n\n<b>This person is banned on Sylviorus!</b>"
+>>>            text += f"\nReason: <pre>{spamer.reason}</pre>"
+>>>            text += "\nAppeal at @Sylviorus_Support"
+>>>        else:
+>>>            pass
+>>>    except:
+>>>        pass  
 
 Features
 --------
