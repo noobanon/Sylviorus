@@ -15,7 +15,7 @@ Look how to use:
 
 # Print Ban Reason
 
->>>try:
+>>> try:
 >>>        sylban = SYL()
 >>>        spamer = sylban.get_info(int(user.id))
 >>>        if spamer.blacklisted != False:
